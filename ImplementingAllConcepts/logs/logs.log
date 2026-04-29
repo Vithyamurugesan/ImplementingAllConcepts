@@ -1,0 +1,147 @@
+[INFO ] 2026-04-28 15:29:39.214 [main] BaseTest - Browser Launched Successfully
+[INFO ] 2026-04-28 15:30:02.557 [main] BaseTest - Dashboard opened Successfully
+[INFO ] 2026-04-28 15:30:02.603 [main] BaseTest - Assertion get true
+[INFO ] 2026-04-28 15:30:02.866 [main] BaseTest - Browser closed Successfully
+[INFO ] 2026-04-28 15:30:07.181 [main] BaseTest - Browser Launched Successfully
+[INFO ] 2026-04-28 15:30:10.601 [main] BaseTest - Get the login page title get asserted true
+[INFO ] 2026-04-28 15:30:10.828 [main] BaseTest - Browser closed Successfully
+[INFO ] 2026-04-28 16:06:25.004 [main] BaseTest - Browser Launched Successfully
+[INFO ] 2026-04-28 16:06:25.045 [main] BasePage - Initiate the elements
+[INFO ] 2026-04-28 16:06:26.515 [main] BasePage - User Logged in successfully
+[INFO ] 2026-04-28 16:06:33.347 [main] BaseTest - Dashboard opened Successfully
+[INFO ] 2026-04-28 16:06:33.348 [main] BasePage - Initiate the elements
+[INFO ] 2026-04-28 16:06:33.376 [main] BaseTest - Assertion got true for Dashboard opened
+[INFO ] 2026-04-28 16:06:33.504 [main] BaseTest - Browser closed Successfully
+[INFO ] 2026-04-28 16:06:37.074 [main] BaseTest - Browser Launched Successfully
+[INFO ] 2026-04-28 16:06:37.081 [main] BasePage - Initiate the elements
+[INFO ] 2026-04-28 16:06:47.203 [main] BaseTest - Browser closed Successfully
+[INFO ] 2026-04-28 16:14:51.465 [main] BaseTest - Browser Launched Successfully
+[INFO ] 2026-04-28 16:14:51.505 [main] BasePage - Initiate the elements
+[INFO ] 2026-04-28 16:14:53.704 [main] BasePage - User Logged in successfully
+[INFO ] 2026-04-28 16:15:00.241 [main] BaseTest - Dashboard opened Successfully
+[INFO ] 2026-04-28 16:15:00.244 [main] BasePage - Initiate the elements
+[INFO ] 2026-04-28 16:15:00.281 [main] BaseTest - Assertion got true for Dashboard opened
+[INFO ] 2026-04-28 16:15:00.516 [main] BaseTest - Browser closed Successfully
+[INFO ] 2026-04-28 16:15:05.622 [main] BaseTest - Browser Launched Successfully
+[INFO ] 2026-04-28 16:15:05.625 [main] BasePage - Initiate the elements
+[INFO ] 2026-04-28 16:15:07.649 [main] BaseTest - Get the login page title get asserted true
+[INFO ] 2026-04-28 16:15:07.816 [main] BaseTest - Browser closed Successfully
+[DEBUG] 2026-04-28 16:31:13.987 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-28 16:31:13.991 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-28 16:31:17.639 [TestNG-PoolService-1] BaseTest - Browser Launched Successfully
+[INFO ] 2026-04-28 16:31:17.682 [TestNG-PoolService-1] BasePage - Initiate the elements
+[INFO ] 2026-04-28 16:31:18.362 [TestNG-PoolService-1] BasePage - User Logged in successfully
+[INFO ] 2026-04-28 16:31:22.737 [TestNG-PoolService-1] BaseTest - Dashboard opened Successfully
+[INFO ] 2026-04-28 16:31:22.738 [TestNG-PoolService-1] BasePage - Initiate the elements
+[INFO ] 2026-04-28 16:31:22.781 [TestNG-PoolService-1] BaseTest - Assertion got true for Dashboard opened
+[INFO ] 2026-04-28 16:31:24.555 [TestNG-PoolService-1] BaseTest - Browser closed Successfully
+[INFO ] 2026-04-28 16:31:30.718 [main] BaseTest - Browser Launched Successfully
+[INFO ] 2026-04-28 16:31:30.722 [main] BasePage - Initiate the elements
+[INFO ] 2026-04-28 16:31:34.180 [main] BaseTest - Get the login page title get asserted true
+[INFO ] 2026-04-28 16:31:34.323 [main] BaseTest - Browser closed Successfully
+[ERROR] 2026-04-29 04:47:46.954 [main] TestListeners - Test FAILED: loginvalidTest
+[INFO ] 2026-04-29 04:47:46.990 [main] BaseTest - Setting up WebDriver for thread: Thread[#1,main,5,main]
+[INFO ] 2026-04-29 04:47:55.690 [main] BaseTest - Browser launched and navigated to OrangeHRM.
+[INFO ] 2026-04-29 04:47:55.693 [main] TestListeners - loginPageTitleTest test started
+[INFO ] 2026-04-29 04:47:55.696 [main] LoginTest - Starting loginPageTitleTest
+[INFO ] 2026-04-29 04:47:55.733 [main] BasePage - Initiate the elements
+[INFO ] 2026-04-29 04:47:56.209 [main] LoginTest - Login page title: Login
+[INFO ] 2026-04-29 04:47:56.215 [main] LoginTest - loginPageTitleTest PASSED
+[INFO ] 2026-04-29 04:47:56.224 [main] TestListeners - Test PASSED: loginPageTitleTest
+[INFO ] 2026-04-29 04:47:56.226 [main] BaseTest - Closing browser for thread: Thread[#1,main,5,main]
+[ERROR] 2026-04-29 04:47:56.624 [main] TestListeners - Test FAILED: loginValidTest
+[ERROR] 2026-04-29 04:47:56.627 [main] TestListeners - Test FAILED: loginInvalidTest
+[DEBUG] 2026-04-29 04:51:29.576 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-29 04:51:29.587 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-29 04:51:30.037 [TestNG-PoolService-1] BaseTest - Setting up WebDriver for thread: Thread[#35,TestNG-PoolService-1,5,main]
+[INFO ] 2026-04-29 04:51:37.919 [TestNG-PoolService-1] BaseTest - Browser launched and navigated to OrangeHRM.
+[INFO ] 2026-04-29 04:51:37.931 [TestNG-PoolService-1] TestListeners - loginvalidTest test started
+[INFO ] 2026-04-29 04:51:37.984 [TestNG-PoolService-1] BasePage - Initiate the elements
+[INFO ] 2026-04-29 04:51:39.815 [TestNG-PoolService-1] BasePage - Login action performed
+[INFO ] 2026-04-29 04:51:39.816 [TestNG-PoolService-1] DashboardTest - Login attempted with credentials
+[INFO ] 2026-04-29 04:51:39.817 [TestNG-PoolService-1] BasePage - Initiate the elements
+[INFO ] 2026-04-29 04:51:40.328 [TestNG-PoolService-1] DashboardTest - Dashboard page title retrieved: Dashboard
+[INFO ] 2026-04-29 04:51:40.330 [TestNG-PoolService-1] DashboardTest - loginValidTest PASSED.
+[INFO ] 2026-04-29 04:51:40.333 [TestNG-PoolService-1] TestListeners - Test PASSED: loginvalidTest
+[INFO ] 2026-04-29 04:51:40.348 [TestNG-PoolService-1] BaseTest - Closing browser for thread: Thread[#35,TestNG-PoolService-1,5,main]
+[INFO ] 2026-04-29 04:51:40.795 [main] BaseTest - Setting up WebDriver for thread: Thread[#1,main,5,main]
+[INFO ] 2026-04-29 04:51:45.230 [main] BaseTest - Browser launched and navigated to OrangeHRM.
+[INFO ] 2026-04-29 04:51:45.231 [main] TestListeners - loginPageTitleTest test started
+[INFO ] 2026-04-29 04:51:45.239 [main] LoginTest - Starting loginPageTitleTest
+[INFO ] 2026-04-29 04:51:45.241 [main] BasePage - Initiate the elements
+[INFO ] 2026-04-29 04:51:45.717 [main] LoginTest - Login page title: Login
+[INFO ] 2026-04-29 04:51:45.717 [main] LoginTest - loginPageTitleTest PASSED
+[INFO ] 2026-04-29 04:51:45.721 [main] TestListeners - Test PASSED: loginPageTitleTest
+[INFO ] 2026-04-29 04:51:45.725 [main] BaseTest - Closing browser for thread: Thread[#1,main,5,main]
+[DEBUG] 2026-04-29 04:51:46.604 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-29 04:51:46.604 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-29 04:51:46.621 [TestNG-PoolService-1] BaseTest - Setting up WebDriver for thread: Thread[#75,TestNG-PoolService-1,5,main]
+[INFO ] 2026-04-29 04:51:48.328 [TestNG-PoolService-1] BaseTest - Browser launched and navigated to OrangeHRM.
+[INFO ] 2026-04-29 04:51:48.330 [TestNG-PoolService-1] TestListeners - loginValidTest test started
+[INFO ] 2026-04-29 04:51:48.344 [TestNG-PoolService-1] LoginTest - Starting loginValidTest
+[INFO ] 2026-04-29 04:51:48.346 [TestNG-PoolService-1] BasePage - Initiate the elements
+[INFO ] 2026-04-29 04:51:51.475 [TestNG-PoolService-1] BasePage - Login action performed
+[INFO ] 2026-04-29 04:51:51.477 [TestNG-PoolService-1] BasePage - Initiate the elements
+[INFO ] 2026-04-29 04:51:53.113 [TestNG-PoolService-1] LoginTest - Dashboard title: Dashboard
+[INFO ] 2026-04-29 04:51:53.113 [TestNG-PoolService-1] LoginTest - loginValidTest PASSED for user: Admin
+[INFO ] 2026-04-29 04:51:53.121 [TestNG-PoolService-1] TestListeners - Test PASSED: loginValidTest
+[INFO ] 2026-04-29 04:51:53.124 [TestNG-PoolService-1] BaseTest - Closing browser for thread: Thread[#75,TestNG-PoolService-1,5,main]
+[DEBUG] 2026-04-29 04:51:53.457 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-29 04:51:53.459 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-29 04:51:53.497 [TestNG-PoolService-1] BaseTest - Setting up WebDriver for thread: Thread[#91,TestNG-PoolService-1,5,main]
+[INFO ] 2026-04-29 04:52:01.273 [TestNG-PoolService-1] BaseTest - Browser launched and navigated to OrangeHRM.
+[INFO ] 2026-04-29 04:52:01.277 [TestNG-PoolService-1] TestListeners - loginInvalidTest test started
+[INFO ] 2026-04-29 04:52:01.282 [TestNG-PoolService-1] LoginTest - Starting loginInvalidTest
+[INFO ] 2026-04-29 04:52:01.283 [TestNG-PoolService-1] BasePage - Initiate the elements
+[INFO ] 2026-04-29 04:52:01.887 [TestNG-PoolService-1] BasePage - Login action performed
+[INFO ] 2026-04-29 04:52:03.103 [TestNG-PoolService-1] LoginTest - Error message: Invalid credentials
+[INFO ] 2026-04-29 04:52:03.103 [TestNG-PoolService-1] LoginTest - loginInvalidTest PASSED for user: ad
+[INFO ] 2026-04-29 04:52:03.109 [TestNG-PoolService-1] TestListeners - Test PASSED: loginInvalidTest
+[INFO ] 2026-04-29 04:52:03.113 [TestNG-PoolService-1] BaseTest - Closing browser for thread: Thread[#91,TestNG-PoolService-1,5,main]
+[DEBUG] 2026-04-29 05:42:50.548 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-29 05:42:50.554 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-29 05:42:50.956 [TestNG-PoolService-1] BaseTest - Setting up WebDriver for thread: Thread[#35,TestNG-PoolService-1,5,main]
+[INFO ] 2026-04-29 05:42:54.488 [TestNG-PoolService-1] BaseTest - Browser launched and navigated to OrangeHRM.
+[INFO ] 2026-04-29 05:42:54.515 [TestNG-PoolService-1] TestListeners - loginvalidTest test started
+[INFO ] 2026-04-29 05:42:54.564 [TestNG-PoolService-1] BasePage - Initiate the elements
+[INFO ] 2026-04-29 05:42:58.130 [TestNG-PoolService-1] BasePage - Login action performed
+[INFO ] 2026-04-29 05:42:58.130 [TestNG-PoolService-1] DashboardTest - Login attempted with credentials
+[INFO ] 2026-04-29 05:42:58.132 [TestNG-PoolService-1] BasePage - Initiate the elements
+[INFO ] 2026-04-29 05:42:59.957 [TestNG-PoolService-1] DashboardTest - Dashboard page title retrieved: Dashboard
+[INFO ] 2026-04-29 05:42:59.961 [TestNG-PoolService-1] DashboardTest - loginValidTest PASSED.
+[INFO ] 2026-04-29 05:42:59.964 [TestNG-PoolService-1] TestListeners - Test PASSED: loginvalidTest
+[INFO ] 2026-04-29 05:42:59.966 [TestNG-PoolService-1] BaseTest - Closing browser for thread: Thread[#35,TestNG-PoolService-1,5,main]
+[INFO ] 2026-04-29 05:43:00.290 [main] BaseTest - Setting up WebDriver for thread: Thread[#1,main,5,main]
+[INFO ] 2026-04-29 05:43:02.065 [main] BaseTest - Browser launched and navigated to OrangeHRM.
+[INFO ] 2026-04-29 05:43:02.066 [main] TestListeners - loginPageTitleTest test started
+[INFO ] 2026-04-29 05:43:02.079 [main] LoginTest - Starting loginPageTitleTest
+[INFO ] 2026-04-29 05:43:02.080 [main] BasePage - Initiate the elements
+[INFO ] 2026-04-29 05:43:05.229 [main] LoginTest - Login page title: Login
+[INFO ] 2026-04-29 05:43:05.229 [main] LoginTest - loginPageTitleTest PASSED
+[INFO ] 2026-04-29 05:43:05.231 [main] TestListeners - Test PASSED: loginPageTitleTest
+[INFO ] 2026-04-29 05:43:05.241 [main] BaseTest - Closing browser for thread: Thread[#1,main,5,main]
+[DEBUG] 2026-04-29 05:43:05.543 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-29 05:43:05.544 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-29 05:43:05.562 [TestNG-PoolService-1] BaseTest - Setting up WebDriver for thread: Thread[#73,TestNG-PoolService-1,5,main]
+[INFO ] 2026-04-29 05:43:10.425 [TestNG-PoolService-1] BaseTest - Browser launched and navigated to OrangeHRM.
+[INFO ] 2026-04-29 05:43:10.426 [TestNG-PoolService-1] TestListeners - loginValidTest test started
+[INFO ] 2026-04-29 05:43:10.426 [TestNG-PoolService-1] LoginTest - Starting loginValidTest
+[INFO ] 2026-04-29 05:43:10.430 [TestNG-PoolService-1] BasePage - Initiate the elements
+[INFO ] 2026-04-29 05:43:11.158 [TestNG-PoolService-1] BasePage - Login action performed
+[INFO ] 2026-04-29 05:43:11.159 [TestNG-PoolService-1] BasePage - Initiate the elements
+[INFO ] 2026-04-29 05:43:13.059 [TestNG-PoolService-1] LoginTest - Dashboard title: Dashboard
+[INFO ] 2026-04-29 05:43:13.059 [TestNG-PoolService-1] LoginTest - loginValidTest PASSED for user: Admin
+[INFO ] 2026-04-29 05:43:13.065 [TestNG-PoolService-1] TestListeners - Test PASSED: loginValidTest
+[INFO ] 2026-04-29 05:43:13.070 [TestNG-PoolService-1] BaseTest - Closing browser for thread: Thread[#73,TestNG-PoolService-1,5,main]
+[DEBUG] 2026-04-29 05:43:13.531 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2026-04-29 05:43:13.533 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2026-04-29 05:43:13.545 [TestNG-PoolService-1] BaseTest - Setting up WebDriver for thread: Thread[#88,TestNG-PoolService-1,5,main]
+[INFO ] 2026-04-29 05:43:15.313 [TestNG-PoolService-1] BaseTest - Browser launched and navigated to OrangeHRM.
+[INFO ] 2026-04-29 05:43:15.314 [TestNG-PoolService-1] TestListeners - loginInvalidTest test started
+[INFO ] 2026-04-29 05:43:15.316 [TestNG-PoolService-1] LoginTest - Starting loginInvalidTest
+[INFO ] 2026-04-29 05:43:15.333 [TestNG-PoolService-1] BasePage - Initiate the elements
+[INFO ] 2026-04-29 05:43:18.602 [TestNG-PoolService-1] BasePage - Login action performed
+[INFO ] 2026-04-29 05:43:19.786 [TestNG-PoolService-1] LoginTest - Error message: Invalid credentials
+[INFO ] 2026-04-29 05:43:19.786 [TestNG-PoolService-1] LoginTest - loginInvalidTest PASSED for user: ad
+[INFO ] 2026-04-29 05:43:19.786 [TestNG-PoolService-1] TestListeners - Test PASSED: loginInvalidTest
+[INFO ] 2026-04-29 05:43:19.791 [TestNG-PoolService-1] BaseTest - Closing browser for thread: Thread[#88,TestNG-PoolService-1,5,main]
